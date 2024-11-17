@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "ghatest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.15.0",
+    "morgan": "^1.10.0"
+  }
+}
