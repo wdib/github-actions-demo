@@ -6,6 +6,7 @@ const
     'Welcome to TechWeek!',
     'Hello from Montréal!',
     'Bienvenue à TechWeek :)',
+    'Welcome to LaSalle College',
   ]
 ;
 
