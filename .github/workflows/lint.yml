@@ -15,5 +15,7 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '20'
+    - name: Install npm dependencies
+      run: npm install
     - name: Lint all JS code
       run: npm run test
