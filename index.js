@@ -3,10 +3,10 @@ const
   morganFn   = require( 'morgan'  ),
   app        = expressObj(),
   msgList    = [
-    'Welcome to TechWeek!',
-    'Hello from Montréal!',
-    'Bienvenue à TechWeek :)',
-    'Welcome to LaSalle College :)',
+    'Welcome to TechWeek! ❤️',
+    'Hello from Montréal! ❤️',
+    'Bienvenue à TechWeek :) ❤️',
+    'Welcome to LaSalle College :) ❤️',
   ]
 ;
 
