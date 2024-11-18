@@ -1,4 +1,4 @@
-name: CI (Continuous Integration) example
+name: lint
 
 on:
   push:
